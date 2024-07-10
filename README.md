@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0057-insert-interval](https://github.com/tarun02jain/code-dump/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/tarun02jain/code-dump/tree/master/0135-candy) |
 ## Greedy
 |  |
