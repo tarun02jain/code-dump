@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tarun02jain/code-dump/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/tarun02jain/code-dump/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tarun02jain/code-dump/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/tarun02jain/code-dump/tree/master/0735-asteroid-collision) |
 ## Greedy
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/tarun02jain/code-dump/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/tarun02jain/code-dump/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tarun02jain/code-dump/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/tarun02jain/code-dump/tree/master/0735-asteroid-collision) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tarun02jain/code-dump/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun02jain/code-dump/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Design
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tarun02jain/code-dump/tree/master/0042-trapping-rain-water) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/tarun02jain/code-dump/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
