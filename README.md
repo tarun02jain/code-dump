@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/tarun02jain/code-dump/tree/master/0135-candy) |
+| [0402-remove-k-digits](https://github.com/tarun02jain/code-dump/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/tarun02jain/code-dump/tree/master/0435-non-overlapping-intervals) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun02jain/code-dump/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Sorting
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/tarun02jain/code-dump/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/tarun02jain/code-dump/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/tarun02jain/code-dump/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/tarun02jain/code-dump/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/tarun02jain/code-dump/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tarun02jain/code-dump/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/tarun02jain/code-dump/tree/master/0735-asteroid-collision) |
@@ -59,12 +61,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tarun02jain/code-dump/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/tarun02jain/code-dump/tree/master/0402-remove-k-digits) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tarun02jain/code-dump/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun02jain/code-dump/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tarun02jain/code-dump/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/tarun02jain/code-dump/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/tarun02jain/code-dump/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tarun02jain/code-dump/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/tarun02jain/code-dump/tree/master/0943-sum-of-subarray-minimums) |
