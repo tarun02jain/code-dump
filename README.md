@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/tarun02jain/code-dump/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tarun02jain/code-dump/tree/master/0085-maximal-rectangle) |
 | [0135-candy](https://github.com/tarun02jain/code-dump/tree/master/0135-candy) |
+| [0198-house-robber](https://github.com/tarun02jain/code-dump/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/tarun02jain/code-dump/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/tarun02jain/code-dump/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tarun02jain/code-dump/tree/master/0503-next-greater-element-ii) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/tarun02jain/code-dump/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/tarun02jain/code-dump/tree/master/0085-maximal-rectangle) |
+| [0198-house-robber](https://github.com/tarun02jain/code-dump/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/tarun02jain/code-dump/tree/master/0435-non-overlapping-intervals) |
 | [0943-sum-of-subarray-minimums](https://github.com/tarun02jain/code-dump/tree/master/0943-sum-of-subarray-minimums) |
 ## Stack
