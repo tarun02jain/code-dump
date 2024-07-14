@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/tarun02jain/code-dump/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/tarun02jain/code-dump/tree/master/0435-non-overlapping-intervals) |
+| [0726-number-of-atoms](https://github.com/tarun02jain/code-dump/tree/master/0726-number-of-atoms) |
 | [2846-robot-collisions](https://github.com/tarun02jain/code-dump/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/tarun02jain/code-dump/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/tarun02jain/code-dump/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/tarun02jain/code-dump/tree/master/0503-next-greater-element-ii) |
+| [0726-number-of-atoms](https://github.com/tarun02jain/code-dump/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/tarun02jain/code-dump/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/tarun02jain/code-dump/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/tarun02jain/code-dump/tree/master/0943-sum-of-subarray-minimums) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/tarun02jain/code-dump/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/tarun02jain/code-dump/tree/master/0402-remove-k-digits) |
+| [0726-number-of-atoms](https://github.com/tarun02jain/code-dump/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tarun02jain/code-dump/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/tarun02jain/code-dump/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Monotonic Stack
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/tarun02jain/code-dump/tree/master/0496-next-greater-element-i) |
+| [0726-number-of-atoms](https://github.com/tarun02jain/code-dump/tree/master/0726-number-of-atoms) |
 ## Two Pointers
 |  |
 | ------- |
